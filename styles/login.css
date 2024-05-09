@@ -1,0 +1,80 @@
+@import url(./style.css);
+
+* {
+    font-family: var(--fonte-principal);
+}
+
+.header {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    border-bottom: 0.5px solid var(--cor-vermelha);
+}
+
+.login-area {
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-login {
+    background-color: var(--cor-azul);
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.card-login img {
+    border-radius: 1rem 0 0 1rem;
+}
+
+.card-login h2 {
+    font-weight: bold;
+    color: var(--cor-branca);
+}
+
+.input-wrapper {
+    background-color: var(--cor-branca);
+    border-radius: 0.5rem;
+    border: 1px solid var(--cor-branca);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.input-wrapper input {
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+}
+
+.input-wrapper i {
+    padding-left: .5rem;
+}
+
+.btn-entrar {
+    background-color: var(--cor-branca);
+    border-radius: 0.5rem;
+    border: none;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    transition: .2s;
+}
+
+.btn-entrar:hover {
+    background-color: var(--cor-vermelha);
+    color: var(--cor-branca);
+}
+
+.txt-negrito {
+    color: var(--cor-vermelha);
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: var(--cor-vermelha);
+    color: var(--cor-branca);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.mensagem-erro {
+    color: var(--cor-vermelha);
+}

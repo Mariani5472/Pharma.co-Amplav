@@ -1,0 +1,40 @@
+@import url(./style.css);
+
+* {
+    font-family: var(--fonte-principal);
+}
+
+.table-area {
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+}
+
+.tabela-cadastrados {
+    background-color: var(cor-branca);
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    overflow-x: auto;
+}
+
+#topo-tabela {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.btnVoltarInicio {
+    background-color: var(--cor-azul);
+    border: none;
+    border-radius: .5rem;
+    padding: 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.btnVoltarInicio i {
+    color: var(--cor-branca);
+}
+
+.btnVoltarInicio a {
+    color: var(--cor-branca);
+    text-decoration: none;
+
+}
