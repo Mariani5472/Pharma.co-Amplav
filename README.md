@@ -20,5 +20,5 @@ Uma tela de login, formulário de cadastro e tela principal com cadastrados da p
 
 ![App Screenshot](https://media.discordapp.net/attachments/732195397736595500/1238152074965946458/print-cadastro.PNG?ex=663e3e7a&is=663cecfa&hm=6a2c7973630263ed352f5eed5bd33b6a38f411de145fb7f07f0687b96b7f64ff&=&format=webp&quality=lossless)
 
-![App Screenshot](https://media.discordapp.net/attachments/732195397736595500/1238152074626334850/print-principal.PNG?ex=663e3e7a&is=663cecfa&hm=8f774ef53fa076549a8cae32ed72673d8b45adf54a38cbcf6577adbfad4a9a59&=&format=webp&quality=lossless)
+![App Screenshot](https://media.discordapp.net/attachments/732195397736595500/1238154031067824199/image.png?ex=663e404c&is=663ceecc&hm=90da354755c0d344232fd701dd348350785ea252840932e89664c71a823feaec&=&format=webp&quality=lossless&width=876&height=655)
 
