@@ -25,5 +25,5 @@ Cadastro bem detalhado, com diversos fatores de verificação das informações 
 
 ![App Screenshot](https://media.discordapp.net/attachments/732195397736595500/1238154031067824199/image.png?ex=663e404c&is=663ceecc&hm=90da354755c0d344232fd701dd348350785ea252840932e89664c71a823feaec&=&format=webp&quality=lossless&width=876&height=655)
 
-Tabela de cadastrados na aplicação
+Tabela de cadastrados na aplicação. A principio exibe apenas os usuários criados no localStorage através da aba cadastro.
 
